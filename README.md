@@ -11,6 +11,9 @@ $ npm start
 # No hot-reloading so make changes and type 'rs' for reload
 $ rs
 
+# Build executable
+$ npm run make
+
 ```
 
 ## Reference
