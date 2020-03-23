@@ -5,7 +5,10 @@ screen recording desktop app built with electron
 ## Getting Started
 
 ```bash
+$ cd screeny
+
 # Start app
+$ npm install
 $ npm start
 
 # No hot-reloading so make changes and type 'rs' for reload
@@ -24,4 +27,3 @@ $ npm run make
 
 - [electron forge boilerplate](https://www.electronforge.io/)
 - [Build a Desktop App with Electron (Video)](https://www.youtube.com/watch?v=3yqDxhR2XxE)
-
