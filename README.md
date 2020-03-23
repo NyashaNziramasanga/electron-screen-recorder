@@ -1,8 +1,8 @@
-# electron-screen-recorder
+# 🎥 Electron Screen Recorder Desktop App 🖥️
 
-screen recording app built with electron
+screen recording desktop app built with electron
 
-## Usage
+## Getting Started
 
 ```bash
 # Start app
@@ -16,7 +16,12 @@ $ npm run make
 
 ```
 
+## Built with
+
+- [electron](https://www.electronjs.org/)
+
 ## Reference
 
-- [Build a Desktop App with Electron (Video)](https://www.youtube.com/watch?v=3yqDxhR2XxE)
 - [electron forge boilerplate](https://www.electronforge.io/)
+- [Build a Desktop App with Electron (Video)](https://www.youtube.com/watch?v=3yqDxhR2XxE)
+
