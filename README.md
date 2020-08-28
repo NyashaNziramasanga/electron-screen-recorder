@@ -1,6 +1,8 @@
-# 🎥 Electron Screen Recorder Desktop App 🖥️
+# Screeny Desktop App
 
-screen recording desktop app built with electron
+🎥 Screen recording desktop app built with Electron 🖥️
+
+![screeny](screeny.png)
 
 ## Getting Started
 
@@ -21,9 +23,9 @@ $ npm run make
 
 ## Built with
 
-- [electron](https://www.electronjs.org/)
+- [Electron](https://www.electronjs.org/)
 
 ## Reference
 
-- [electron forge boilerplate](https://www.electronforge.io/)
+- [Electron forge boilerplate](https://www.electronforge.io/)
 - [Build a Desktop App with Electron (Video)](https://www.youtube.com/watch?v=3yqDxhR2XxE)
